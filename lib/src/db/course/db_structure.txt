@@ -1,0 +1,68 @@
+courses (collection)
+  |-- courseId (document)
+        |-- title: Map
+              |-- en: String
+              |-- id: String
+        |-- dateTime: Timestamp
+        |-- psychologist: String
+        |-- psychologistId: String
+        |-- duration: Number
+        |-- tag: String
+        |-- imageUrl: String
+        |-- preTest: Map
+              |-- questions: Array of Maps
+                  |-- question: Map
+                        |-- en: String
+                        |-- id: String
+                  |-- options: Map
+                        |-- A: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- B: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- C: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- D: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- E: Map
+                              |-- en: String
+                              |-- id: String
+                  |-- correctAnswer: String ("A", "B", "C", "D", or "E")
+        |-- sessions: Array of Maps
+              |-- sessionNumber: Number
+              |-- duration: Number
+              |-- materials: Array of Maps
+                  |-- type: String ("video", "image", "article", "pdf")
+                  |-- content: Map
+                        |-- en: String (URL or text)
+                        |-- id: String (URL or text)
+              |-- task: Map
+                  |-- description: Map
+                        |-- en: String
+                        |-- id: String
+                  |-- acceptedFileTypes: Array of Strings (["docx", "pdf", "txt", "direct"])
+        |-- postTest: Map
+              |-- questions: Array of Maps
+                  |-- question: Map
+                        |-- en: String
+                        |-- id: String
+                  |-- options: Map
+                        |-- A: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- B: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- C: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- D: Map
+                              |-- en: String
+                              |-- id: String
+                        |-- E: Map
+                              |-- en: String
+                              |-- id: String
+                  |-- correctAnswer: String ("A", "B", "C", "D", or "E")

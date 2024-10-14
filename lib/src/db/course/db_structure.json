@@ -1,0 +1,231 @@
+{
+  "courseId": "id",
+  "title": {
+    "en": "Parenting for Autistic Children",
+    "id": "Parenting untuk Anak-anak Autistik"
+  },
+  "dateTime": "2023-06-08T12:00:00Z",
+  "psychologist": "Dr. Raihan, M.Psi.",
+  "psychologistId": "ikifjenf",
+  "duration": 16,
+  "tag": "ASD",
+  "imageUrl": "assets/images/asdTagOrange.svg",
+  "preTest": {
+    "questions": [
+      {
+        "question": {
+          "en": "What is autism?",
+          "id": "Apa itu autisme?"
+        },
+        "options": {
+          "A": {
+            "en": "Autism is a developmental disorder characterized by difficulties with social interaction and communication, and by restricted and repetitive behavior.",
+            "id": "Autisme adalah gangguan perkembangan yang ditandai dengan kesulitan dalam interaksi sosial dan komunikasi, serta perilaku terbatas dan berulang."
+          },
+          "B": {
+            "en": "Autism is a psychological condition that affects emotional regulation.",
+            "id": "Autisme adalah kondisi psikologis yang memengaruhi regulasi emosional."
+          },
+          "C": {
+            "en": "Autism is a type of physical disability that impacts motor skills.",
+            "id": "Autisme adalah jenis disabilitas fisik yang mempengaruhi keterampilan motorik."
+          },
+          "D": {
+            "en": "Autism is a genetic disorder that primarily affects cognitive development.",
+            "id": "Autisme adalah gangguan genetik yang terutama mempengaruhi perkembangan kognitif."
+          },
+          "E": {
+            "en": "Autism is a contagious disease that can be spread through physical contact.",
+            "id": "Autisme adalah penyakit menular yang dapat menyebar melalui kontak fisik."
+          }
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": {
+          "en": "What is autism?",
+          "id": "Apa itu autisme?"
+        },
+        "options": {
+          "A": {
+            "en": "Autism is a developmental disorder characterized by difficulties with social interaction and communication, and by restricted and repetitive behavior.",
+            "id": "Autisme adalah gangguan perkembangan yang ditandai dengan kesulitan dalam interaksi sosial dan komunikasi, serta perilaku terbatas dan berulang."
+          },
+          "B": {
+            "en": "Autism is a psychological condition that affects emotional regulation.",
+            "id": "Autisme adalah kondisi psikologis yang memengaruhi regulasi emosional."
+          },
+          "C": {
+            "en": "Autism is a type of physical disability that impacts motor skills.",
+            "id": "Autisme adalah jenis disabilitas fisik yang mempengaruhi keterampilan motorik."
+          },
+          "D": {
+            "en": "Autism is a genetic disorder that primarily affects cognitive development.",
+            "id": "Autisme adalah gangguan genetik yang terutama mempengaruhi perkembangan kognitif."
+          },
+          "E": {
+            "en": "Autism is a contagious disease that can be spread through physical contact.",
+            "id": "Autisme adalah penyakit menular yang dapat menyebar melalui kontak fisik."
+          }
+        },
+        "correctAnswer": "A"
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "sessionNumber": 1,
+      "duration": 2,
+      "sessionTitle": {
+        "en": "Understanding Autism",
+        "id": "Memahami Autism"
+      },
+      "materials": [
+        {
+          "type": "video",
+          "content": {
+            "en": "https://www.youtube.com/watch?v=tEBsTX2OVgI",
+            "id": "https://www.youtube.com/watch?v=DwXRIu0esT0"
+          }
+        },
+        {
+          "type": "article",
+          "content": {
+            "en": "This%20is%20an%20article%20text.%20%0A%0AThis%20is%20a%20new%20paragraph.%0A%0AThis%20is%20another%20paragraph.",
+            "id": "Ini%20adalah%20teks%20artikel.%20%0A%0AIni%20adalah%20sebuah%20paragraf%20baru.%0A%0AIni%20adalah%20paragraf%20baru%20lainnya."
+          }
+        },
+        {
+          "type": "pdf",
+          "content": {
+            "en": "https://mfazrinizar.github.io/assets/(Neurodivergent%20Population%20Percentage)%20Neurodiversity%20at%20work%20a%20biopsychosocial%20model.pdf",
+            "id": "https://mfazrinizar.github.io/assets/(Neurodivergent%20Population%20Percentage)%20Neurodiversity%20at%20work%20a%20biopsychosocial%20model.pdf"
+          }
+        }
+      ],
+      "task": {
+        "description": {
+          "en": "Submit a summary of the session.",
+          "id": "Kirim ringkasan sesi."
+        },
+        "acceptedFileTypes": [
+          "docx",
+          "pdf",
+          "txt"
+        ]
+      },
+      "commentsList": [
+        {
+          "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/neurossistant.appspot.com/o/profile_pictures%2FbvuSjWQaRbOERzGl2kdrfpw0Kyv1.jpg?alt=media&token=aaca9c43-a5b4-40f3-a422-d5342fbe1a36",
+          "commentDate": "2023-06-08T12:00:00Z",
+          "commentId": "uniqueId-00",
+          "commenterId": "BtQDQqqimzdwyAaVMCzujSIxGlo1",
+          "commenterName": "Raihan",
+          "text": "This session was very informative."
+        },
+        {
+          "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/neurossistant.appspot.com/o/profile_pictures%2FbvuSjWQaRbOERzGl2kdrfpw0Kyv1.jpg?alt=media&token=aaca9c43-a5b4-40f3-a422-d5342fbe1a36",
+          "commentDate": "2023-06-08T12:00:00Z",
+          "commentId": "uniqueId-01",
+          "commenterId": "BtQDQqqimzdwyAaVMCzujSIxGlo1",
+          "commenterName": "Raihan",
+          "text": "I found the video particularly helpful."
+        }
+      ]
+    },
+    {
+      "sessionNumber": 2,
+      "duration": 2,
+      "materials": [
+        {
+          "type": "video",
+          "content": {
+            "en": "https://youtube.com/example2",
+            "id": "https://youtube.com/example2"
+          }
+        },
+        {
+          "type": "article",
+          "content": {
+            "en": "This is another article text.",
+            "id": "Ini adalah teks artikel lain."
+          }
+        }
+      ],
+      "task": {
+        "description": {
+          "en": "Submit your thoughts on the session.",
+          "id": "Kirimkan pendapat Anda tentang sesi tersebut."
+        },
+        "acceptedFileTypes": [
+          "docx",
+          "pdf",
+          "txt",
+          "direct"
+        ]
+      }
+    }
+  ],
+  "postTest": {
+    "questions": [
+      {
+        "question": {
+          "en": "What is autism?",
+          "id": "Apa itu autisme?"
+        },
+        "options": {
+          "A": {
+            "en": "Autism is a developmental disorder characterized by difficulties with social interaction and communication, and by restricted and repetitive behavior.",
+            "id": "Autisme adalah gangguan perkembangan yang ditandai dengan kesulitan dalam interaksi sosial dan komunikasi, serta perilaku terbatas dan berulang."
+          },
+          "B": {
+            "en": "Autism is a psychological condition that affects emotional regulation.",
+            "id": "Autisme adalah kondisi psikologis yang memengaruhi regulasi emosional."
+          },
+          "C": {
+            "en": "Autism is a type of physical disability that impacts motor skills.",
+            "id": "Autisme adalah jenis disabilitas fisik yang mempengaruhi keterampilan motorik."
+          },
+          "D": {
+            "en": "Autism is a genetic disorder that primarily affects cognitive development.",
+            "id": "Autisme adalah gangguan genetik yang terutama mempengaruhi perkembangan kognitif."
+          },
+          "E": {
+            "en": "Autism is a contagious disease that can be spread through physical contact.",
+            "id": "Autisme adalah penyakit menular yang dapat menyebar melalui kontak fisik."
+          }
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": {
+          "en": "What is autism?",
+          "id": "Apa itu autisme?"
+        },
+        "options": {
+          "A": {
+            "en": "Autism is a developmental disorder characterized by difficulties with social interaction and communication, and by restricted and repetitive behavior.",
+            "id": "Autisme adalah gangguan perkembangan yang ditandai dengan kesulitan dalam interaksi sosial dan komunikasi, serta perilaku terbatas dan berulang."
+          },
+          "B": {
+            "en": "Autism is a psychological condition that affects emotional regulation.",
+            "id": "Autisme adalah kondisi psikologis yang memengaruhi regulasi emosional."
+          },
+          "C": {
+            "en": "Autism is a type of physical disability that impacts motor skills.",
+            "id": "Autisme adalah jenis disabilitas fisik yang mempengaruhi keterampilan motorik."
+          },
+          "D": {
+            "en": "Autism is a genetic disorder that primarily affects cognitive development.",
+            "id": "Autisme adalah gangguan genetik yang terutama mempengaruhi perkembangan kognitif."
+          },
+          "E": {
+            "en": "Autism is a contagious disease that can be spread through physical contact.",
+            "id": "Autisme adalah penyakit menular yang dapat menyebar melalui kontak fisik."
+          }
+        },
+        "correctAnswer": "A"
+      }
+    ]
+  }
+}
